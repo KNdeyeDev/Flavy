@@ -1,6 +1,6 @@
 {
-  "name": "folour/flavy",
-  "description": "FFmpeg layer for Laravel 5.2, this is a fork of rafasamp/sonus package",
+  "name": "k-ndeye/flavy",
+  "description": "Test FFmpeg layer for Laravel 5.*, this is a fork of rafasamp/sonus package",
   "keywords": ["laravel", "ffmpeg", "audio", "video", "converter", "conversion", "video thumbnailer"],
   "minimum-stability": "stable",
   "version": "1.0.1",
@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": ">=5.5.9",
-    "laravel/framework": "5.2.*"
+    "laravel/framework": "5.*"
   },
   "autoload": {
     "psr-4": {
